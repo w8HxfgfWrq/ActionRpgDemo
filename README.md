@@ -1,2 +1,2 @@
 # ActionRpgDemo
-youtube : https://youtu.be/RtQ2hAYd7ro
+video : https://youtu.be/RtQ2hAYd7ro
